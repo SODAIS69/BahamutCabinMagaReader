@@ -25,7 +25,7 @@ overflow:auto;
 background-color:#f2e15b!important;
 padding:5px;
 color:black!important;
-
+border-collapse: collapse;
 }
 .nextarticle:hover{
 background-color:#ffef71!important;
