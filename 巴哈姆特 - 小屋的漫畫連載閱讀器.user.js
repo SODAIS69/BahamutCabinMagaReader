@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name        巴哈姆特 - 小屋漫畫連載閱讀器
 // @namespace    http://tampermonkey.net/
-// @version      0.5
+// @version      0.6
 // @description  try to take over the world!
 // @author       naruto861214@巴哈姆特
 // @match        https://home.gamer.com.tw/creationDetail.php?sn=*
